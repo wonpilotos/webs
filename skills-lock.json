@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "ui-ux-pro-max": {
+      "source": "local",
+      "sourceType": "local",
+      "computedHash": "9bd26c52dfd10dfd613dd3cc85df217dc25a172e380bde41fdfa6fedda288b2a"
+    },
     "web-design-guidelines": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
